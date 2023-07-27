@@ -1,0 +1,77 @@
+body {
+    font-family: poppins, sans-serif;
+}
+.more-button {
+    color: #ffffff;
+    background-color: #FD8F5F;
+    padding:  13px 20px;
+}
+
+.more-button:hover {
+    border: 1px solid #FD8F5F;
+    color: #FD8F5F;
+    padding:  13px 20px;
+}
+
+.hero-bg {
+    background-image: url("hero-bg-1.jpeg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin: 0;
+    padding: 0;
+
+}
+.hero-bg-cart {
+    background-image: url("cart-hero.JPG");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    
+    margin: 0;
+    padding: 0;
+}
+.hero-left{
+ background-color: #ffffff;
+ padding: 70px;
+ margin:50px;
+ line-height: 1.5;
+
+} 
+.cart-banner {
+    padding-top: 170px;
+    padding-bottom: 200px;
+
+}
+.second-row {
+    margin: 40px;
+}
+.manufacture-row {
+    background-color: #F2E1D9;
+    margin: 0 auto;
+    padding: 0;
+}
+.right-row {
+    padding-top: 50px;
+    padding-left: 20px;
+} 
+.left-row {
+    padding: 0;
+}
+
+.footer-row {
+    background-color: #6610f2;
+    color: #ffffff;
+    padding: 30px;
+}
+.footer-row ul li {
+    padding: 5px;
+    list-style-type: none;
+}
+.quick-links a {
+    text-decoration: none;
+    color:#ffffff;
+
+}
